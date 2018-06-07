@@ -11,4 +11,18 @@ package c0736436_midterm_mads3464;
  */
 public class Initials {
     
+    static void printInitials(String name)
+    {
+        if(name.length() ==0)
+        return;
+        
+        System.out.println(Character. toUpperCase(name.charAt(0)));
+        
+        for(int i=1;
+            i<name.length()-1;i++)
+            if(name.Char(i) ==" ")
+            
+            System.out.println(" " + Character.toUpperCase(name,charAt(0)));
+    }
+    
 }
