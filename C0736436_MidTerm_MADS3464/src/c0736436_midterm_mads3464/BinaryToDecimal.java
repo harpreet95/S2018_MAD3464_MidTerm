@@ -27,7 +27,7 @@ import static c0736436_midterm_mads3464.LambtonStringTools.j;
          }
              else
              {
-                      int temp = binary%10;
+                    int temp = binary%10;
                      decimal += temp*Math.pow(2,power);
                      binary = binary/10;
                      power++;

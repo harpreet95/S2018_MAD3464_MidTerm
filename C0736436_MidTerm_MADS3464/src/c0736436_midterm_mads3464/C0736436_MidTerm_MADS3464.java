@@ -24,7 +24,7 @@ public class C0736436_MidTerm_MADS3464 {
     }*/
    {
     BinaryToDecimal btd = new BinaryToDecimal();
-   System.out.println("decimal of 1101:" +btd.BinaryToDecimal(1101));
+   System.out.println("decimal of 1101:" +btd.BinarytoDecimal(1101));
    
 }
 }
