@@ -16,6 +16,10 @@ public class C0736436_MidTerm_MADS3464 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        LambtonStringTools lst = new LambtonStringTools();
+        lst.reverse("LAMBTON");
+        
+        
     }
     
 }
